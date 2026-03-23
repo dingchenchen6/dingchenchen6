@@ -4,15 +4,15 @@
 
 **Peking University - IIASA International Joint Postdoctoral Fellow**
 
-[Academic Website](https://dingchenchen6.github.io/chenchen-ding/) · [ORCID](https://orcid.org/0000-0001-6706-7996) · [ResearchGate](https://www.researchgate.net/search/researcher?q=Chenchen%20Ding) · [Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=Chenchen+Ding)
+[Personal Academic Website](https://dingchenchen6.github.io/chenchen-ding/) · [GitHub Profile](https://github.com/dingchenchen6) · [ORCID](https://orcid.org/0000-0001-6706-7996) · [ResearchGate](https://www.researchgate.net/search/researcher?q=Chenchen%20Ding) · [Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=Chenchen+Ding)
 
 </div>
 
-## Personal Academic Website
+> Personal academic website: [https://dingchenchen6.github.io/chenchen-ding/](https://dingchenchen6.github.io/chenchen-ding/)
+>
+> GitHub profile and repository hub: [https://github.com/dingchenchen6](https://github.com/dingchenchen6)
 
-[https://dingchenchen6.github.io/chenchen-ding/](https://dingchenchen6.github.io/chenchen-ding/)
-
-This page is the **GitHub profile and repository hub** of Chenchen Ding. The **personal academic website** is: [dingchenchen6.github.io/chenchen-ding](https://dingchenchen6.github.io/chenchen-ding/).
+This page is the **GitHub profile and repository hub** of Chenchen Ding. The **personal academic website** presents her academic profile, research experience, publications, and projects.
 
 Chenchen Ding (丁晨晨) is a biodiversity researcher working on **conservation biology**, **global change biology**, and **biogeography**. Her research focuses on how **land-use change** and **climate change** affect **biodiversity**, **species distributions**, **biodiversity change**, **community structure**, **ecosystem services**, **extinction risk**, and **conservation priority identification**.
 
@@ -21,6 +21,8 @@ Chenchen Ding (丁晨晨) is a biodiversity researcher working on **conservation
 | Item | Details |
 | --- | --- |
 | Name | Chenchen Ding / 丁晨晨 |
+| Personal Academic Website | [dingchenchen6.github.io/chenchen-ding](https://dingchenchen6.github.io/chenchen-ding/) |
+| GitHub Profile | [github.com/dingchenchen6](https://github.com/dingchenchen6) |
 | Affiliation | Peking University; International Institute for Applied Systems Analysis (IIASA) |
 | Research Areas | Conservation Biology; Global Change Biology; Biogeography; Species Distribution; Biodiversity Change |
 | Current Focus | Biodiversity change assessment, extinction risk assessment, ecological modelling, conservation planning |
