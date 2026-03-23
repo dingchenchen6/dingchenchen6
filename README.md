@@ -8,6 +8,10 @@
 
 </div>
 
+## Personal Academic Website
+
+[https://dingchenchen6.github.io/chenchen-ding/](https://dingchenchen6.github.io/chenchen-ding/)
+
 This page is the **GitHub profile and repository hub** of Chenchen Ding. The **personal academic website** is: [dingchenchen6.github.io/chenchen-ding](https://dingchenchen6.github.io/chenchen-ding/).
 
 Chenchen Ding (丁晨晨) is a biodiversity researcher working on **conservation biology**, **global change biology**, and **biogeography**. Her research focuses on how **land-use change** and **climate change** affect **biodiversity**, **species distributions**, **biodiversity change**, **community structure**, **ecosystem services**, **extinction risk**, and **conservation priority identification**.
